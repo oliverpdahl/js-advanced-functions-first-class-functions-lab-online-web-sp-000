@@ -15,6 +15,7 @@ function createFareMultiplier(mult) {
     return fare * mult
   }
 }
+
 function fareDoubler() {
   
 }
